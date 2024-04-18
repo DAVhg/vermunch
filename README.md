@@ -1,20 +1,27 @@
-Vermunch
-Welcome to Vermunch, a new vermut brand's website!
+# Vermunch
 
-Description
-Vermunch is a simple webpage designed to showcase our brand's logo on a vibrant red background. This webpage serves as the online presence for our vermut brand, providing visitors with a visually appealing introduction to our product.
+¡Bienvenido a Vermunch, el sitio web de una nueva marca de vermut!
 
-Getting Started
-To view the website locally, simply download the HTML file (index.html) and the logo image (your-logo-white.png). Make sure both files are in the same directory. Then, open the index.html file in a web browser to see the webpage.
+## Descripción
 
-Usage
-The webpage displays our brand's logo prominently on a red background. Visitors can see the logo and get a sense of our brand identity. No additional text or information is provided on the webpage to keep the design minimalistic and focused.
+Vermunch es una página web simple diseñada para mostrar el logo de nuestra marca sobre un fondo rojo vibrante. Esta página web sirve como la presencia en línea de nuestra marca de vermut, proporcionando a los visitantes una introducción visualmente atractiva a nuestro producto.
 
-Contributing
-Contributions to the Vermunch project are currently not open to the public. However, if you have suggestions or feedback, please feel free to reach out to us directly.
+## Empezando
 
-License
-This project is licensed under the Creative Commons Zero v1.0 Universal license - see the LICENSE file for details.
+Para ver el sitio web localmente, simplemente descargue el archivo HTML (`index.html`) y la imagen del logo (`tu-logo-blanco.png`). Asegúrese de que ambos archivos estén en el mismo directorio. Luego, abra el archivo `index.html` en un navegador web para ver la página web.
 
-Acknowledgements
-Thank you for visiting Vermunch! We appreciate your interest in our brand.
+## Uso
+
+La página web muestra el logo de nuestra marca de forma destacada sobre un fondo rojo. Los visitantes pueden ver el logo y obtener una idea de nuestra identidad de marca. No se proporciona texto o información adicional en la página web para mantener el diseño minimalista y centrado.
+
+## Contribuir
+
+Las contribuciones al proyecto Vermunch no están actualmente abiertas al público. Sin embargo, si tiene sugerencias o comentarios, no dude en comunicarse con nosotros directamente.
+
+## Licencia
+
+Este proyecto está bajo la licencia [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) - consulte el archivo [LICENSE](LICENSE) para obtener más detalles.
+
+## Reconocimientos
+
+¡Gracias por visitar Vermunch! Apreciamos su interés en nuestra marca.
